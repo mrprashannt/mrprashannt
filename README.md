@@ -36,7 +36,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-Name: Prashnat Hacker
+Name: Prashant Hacker
 located_in: Montreal, Quebec
 current_job: Full Stack Developer
 education:
